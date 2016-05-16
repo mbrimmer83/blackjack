@@ -1,0 +1,39 @@
+
+body {
+  background-color: firebrick;
+}
+
+#message {
+  top: 0%;
+  left: 5%;
+  width: 90%;
+  height: 15%;
+  position: absolute;
+  border: solid 3px;
+}
+
+#dealer-hand {
+  top:20%;
+  left: 5%;
+  width: 90%;
+  height: 30%;
+  position: absolute;
+  border: solid 3px;
+}
+
+#player-hand {
+  top: 55%;
+  left: 5%;
+  width: 90%;
+  height: 30%;
+  position: absolute;
+  border: solid 3px;
+}
+
+.buttons {
+  top: 86%;
+  left: 5%;
+  width: 90%;
+  height: 5%;
+  position: absolute;
+}
